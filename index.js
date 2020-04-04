@@ -9,7 +9,7 @@ function happyHolidaysTo(name){
 }
 //Write a function that takes in multiple parameters
 function happyHolidayTo(holiday, name){
-  return `Happy ${holiday}, ${name}!`.;
+  return `Happy ${holiday}, ${name}!`;
 }
 //Write a function that takes in multiple parameters
 function holidayCountdown(holiday, days){
